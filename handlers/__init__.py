@@ -1,0 +1,2 @@
+from .mines import dp
+__all__ = ['dp']

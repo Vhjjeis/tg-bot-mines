@@ -1,0 +1,6 @@
+TEXT_START = 'Прив, начать игру /mines'
+TEXT_GAME = 'game\nScore: {score}'
+TEXT_WIN_GAME = 'Вы выиграли\nScore: {score}\n\nНачать новую игру /mines'
+TEXT_LOSS_GAME = 'Бомбааааааааа! Вы проигали!\nScore: {score}\n\nНачать новую игру /mines'
+TEXT_CLOSE_GAME = 'Игра окончена\nScore: {score}\n\nНачать новую игру /mines'
+TEXT_OLD_CELL = 'Вы уже открывали эту клетку'
